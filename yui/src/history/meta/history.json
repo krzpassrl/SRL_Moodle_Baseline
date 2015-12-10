@@ -1,0 +1,8 @@
+{
+    "moodle-mod_sepl-history": {
+        "requires": [
+            "node",
+            "transition"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "moodle-mod_sepl-history",
+    "builds": {
+        "moodle-mod_sepl-history": {
+            "jsfiles": [
+                "history.js"
+            ]
+        }
+    }
+}
